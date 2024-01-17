@@ -38,7 +38,7 @@
   <a href="+48733427798" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="47" height="35" alt="whatsapp logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/rashad-kazimov/" target="_blank">
+  <a href="www.linkedin.com/in/rasad-kazimov" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://www.facebook.com/emin.kazimov.372/" target="_blank">
